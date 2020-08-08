@@ -1,6 +1,6 @@
 # An in-depth analysis on the use of long short-term memory networks to predict incidence and prevalence of Covid-19 in Latin America
 ## Description
-This repository contains the code and datasets for the paper An in-depth analysis on the use of long short-term memory networks to predict incidence and prevalence of Covid-19 in Latin America, by Bruna L. Barreira, Roberto F. Silva, and Carlos E. Cugnasca. This paper was accepted at the SBCAS 2020 (20º Simpósio Brasileiro de Computação Aplicada à Saúde) scientific event. Descriptions of the implementation and the dataset are contained in the paper (link: XXX, the link will be inserted once it is available). The code is composed of 1 Colab notebook.
+This repository contains the code and datasets for the paper An in-depth analysis on the use of long short-term memory networks to predict incidence and prevalence of Covid-19 in Latin America, by Bruna L. Barreira, Roberto F. Silva, and Carlos E. Cugnasca. We studied the following countries: Argentina, Bolivia, Brazil, Colombia, Cuba, Guatemala, Haiti, Mexico, and Peru. This paper was accepted at the FAIML 2020 (2020 International Conference on Frontiers of Artificial Intelligence and Machine Learning) scientific event. Descriptions of the implementation and the dataset are contained in the paper (link: XXX, the link will be inserted once it is available). The code is composed of 1 Colab notebook.
 
 The code was developed by Bruna Lobato Barreira and Roberto Fray da Silva.
 
